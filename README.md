@@ -16,11 +16,11 @@ HINT: Super-powers are granted randomly so please submit an issue if you're not 
 WARNING: Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 DANGER: Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="success" %}
 SUCCESS: Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
