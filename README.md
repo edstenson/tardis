@@ -23,6 +23,6 @@ $$
 a = b * c
 $$
 
-{% warning style="info" %}
+{% hint style="info" %}
  WARNING: Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endwarning %}
+{% endhint %}
