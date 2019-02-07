@@ -17,11 +17,11 @@ WARNING: Super-powers are granted randomly so please submit an issue if you're n
 {% endhint %}
 
 {% hint style="warning" %}
-WARNING: Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+DANGER: Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
 {% hint style="warning" %}
-WARNING: Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+SUCCESS: Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
 Once you're strong enough, save the world:
