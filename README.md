@@ -1,6 +1,6 @@
 # Initial page
 
-## Getting Super Powers Today
+## Getting Super Powers Today (if that's ok with everyone)
 
 Becoming a super hero is a fairly straight forward process:
 
